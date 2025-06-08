@@ -1,0 +1,8 @@
+gradio
+tensorflow
+keras
+numpy
+opencv-python
+Pillow
+keras-facenet
+scipy
