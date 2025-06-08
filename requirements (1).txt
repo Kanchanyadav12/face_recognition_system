@@ -1,8 +1,4 @@
-gradio
-tensorflow
-keras
-numpy
-opencv-python
-Pillow
+streamlit
 keras-facenet
-scipy
+Pillow
+numpy
